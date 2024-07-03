@@ -175,5 +175,6 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-data
+data/nyt.csv
+data/yellow_tripdata_2024-01.parquet
 nyc-tlc-data
